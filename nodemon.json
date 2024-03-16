@@ -1,0 +1,6 @@
+{
+  "ext": "ts,js",
+  "watch": ["./src"],
+  "stdin": false,
+  "exec": "ts-node ./src/main.ts"
+}
