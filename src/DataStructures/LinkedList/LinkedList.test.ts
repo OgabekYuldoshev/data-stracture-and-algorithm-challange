@@ -1,6 +1,6 @@
 import { LinkedList } from "./LinkedList";
 
-describe.skip("LinkedList data structure testing", () => {
+describe("LinkedList data structure testing", () => {
   const list = new LinkedList();
 
   test("should append new listnode in LinkedList", () => {
